@@ -52,7 +52,7 @@ print("Hello Wordl!")
 - Запускаю скрипт в проекте Unity и получаю в Console ожидаемый результат.
 
 
-```
+```cs
 
 using System.Collections;
 using System.Collections.Generic;
