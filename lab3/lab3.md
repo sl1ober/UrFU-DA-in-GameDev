@@ -47,7 +47,7 @@
 ## Задание 2
 ### Создать 10 сцен на Unity с изменяющимся уровнем сложности.
 
-- Данное задание сделано в проекте, который доступен [в репозитории](https://github.com/Yahchao02/lb3).
+- Данное задание сделано в проекте, который доступен [[в репозитории]https://github.com/sl1ober/UrFU-DA-in-GameDev/tree/main/lab3/1](https://github.com/sl1ober/UrFU-DA-in-GameDev/tree/main/lab3/1)
 
 
 ## Задание 3
