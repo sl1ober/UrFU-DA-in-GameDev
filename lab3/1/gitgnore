@@ -1,0 +1,72 @@
+# Этот файл .gitignore следует поместить в корневой каталог вашего проекта Unity
+#
+# Получить последнюю версию от https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+/[Ll]Библиотека/
+/[Tt]emp/
+/[Oo]би Джей/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]сер[Ss]надписи/
+
+# MemoryCaptures могут стать чрезмерно большими.
+# Они также могут содержать чрезвычайно конфиденциальные данные
+/[Мм]Эмоциональные захваты/
+
+# Записи могут стать чрезмерно большими
+/[Rr]электронные записи/
+
+# Раскомментируйте эту строку, если хотите игнорировать плагин asset store tools
+# /[Aa]ssets/AssetStoreTools*
+
+# Автоматически сгенерированный плагин Jetbrains Rider
+/[Aa]ssets/Плагины/Редактор/JetBrains*
+
+# Каталог кэша Visual Studio
+.vs/
+
+# Каталог кэша Gradle
+.gradle/
+
+# Автоматически сгенерированное решение VS / MD / Consulo и файлы проекта
+Экспортированный OBJ/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.пользователь
+*.пользовательские настройки
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+Мета-файлы, созданные # Unity3D
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D сгенерировал файл для отчетов о сбоях
+sysinfo.txt
+
+# Сборки
+*.apk
+*.aab
+*.единая упаковка
+*.app
+
+# файл, сгенерированный Crashlytics
+crashlytics-сборка.свойства
+
+# Упакованные адресуемые файлы
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Временные автоматически сгенерированные ресурсы Android
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
