@@ -110,7 +110,8 @@ fill_sheet(sh, [data_speed, data_distance, data_chance, data_cooldown])
 
 - Вот так выглядят графики.
 
-  ![Изображение]([Graphs.png](https://github.com/Yahchao02/lb3/blob/main/Graphs.png))
+  ![Graphs](https://github.com/sl1ober/UrFU-DA-in-GameDev/assets/146642360/82859037-7c86-4f7a-a7f2-56b403338e83)
+
 
 
 ## Выводы
